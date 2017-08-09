@@ -16,6 +16,7 @@
 
 	Ext.onReady(function() {
 		alert("hello word");
+		alert("hello word");
 		
 	}); 
 	
